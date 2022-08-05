@@ -9,6 +9,8 @@ numpy = "*"
 sklearn = "*"
 seaborn = "*"
 matplotlib = "*"
+statsmodels = "*"
+scipy = "*"
 
 [dev-packages]
 
